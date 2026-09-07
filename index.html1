@@ -1,0 +1,27 @@
+<section class="card">
+    <h2>Featured Projects</h2>
+
+    <article class="project">
+        <div class="project-header">
+            <h3>SQL Business Data Analysis & Querying</h3>
+            <div class="project-links">
+                <a href="YOUR_GOOGLE_COLAB_LINK_HERE" target="_blank" class="btn btn-outline">View SQL Notebook 🔗</a>
+            </div>
+        </div>
+        <p class="project-subtitle">Relational Database Project</p>
+        <p>Extracted and cleaned multi-source transactional data across MySQL/PostgreSQL using window functions, subqueries, and CASE WHEN logic.</p>
+    </article>
+
+    <hr class="divider">
+
+    <article class="project">
+        <div class="project-header">
+            <h3>Python Data Exploration & Interactive Dashboard</h3>
+            <div class="project-links">
+                <a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank" class="btn btn-primary">🚀 Launch Live App</a>
+            </div>
+        </div>
+        <p class="project-subtitle">Data Analysis & Web App</p>
+        <p>Built automated data cleaning scripts in Pandas/NumPy and deployed an interactive Streamlit application for dynamic EDA and trend visualization.</p>
+    </article>
+</section>
